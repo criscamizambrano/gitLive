@@ -1,9 +1,1 @@
-
-Aca se realiza una actualización al archivo
-
-
-version 2 
-
-
-
-Test
+Desde el GitHub
